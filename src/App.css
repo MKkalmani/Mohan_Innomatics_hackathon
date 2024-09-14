@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .country {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
